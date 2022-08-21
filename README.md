@@ -22,9 +22,9 @@ Currently working in Andorra Recerca + Innovació and building [Snowplanner](htt
 <img src="https://emojis.slackmojis.com/emojis/images/1643514729/7347/docker.png" title="Docker" height="18">
 <img src="https://emojis.slackmojis.com/emojis/images/1646908966/55908/raspberry-pi.png" title="Raspberry Pi" height="18">
 <img src="https://emojis.slackmojis.com/emojis/images/1643514158/1194/arduino.png" title="Arduino" height="18">
-<img src="https://emojis.slackmojis.com/emojis/images/1653455112/59358/gcp.png" title="Google Cloud Platform" height="26">
-<img src="https://emojis.slackmojis.com/emojis/images/1643514069/257/github.png" title="Github" height="26">
-<img src="https://emojis.slackmojis.com/emojis/images/1643514845/8575/airtable.png" title="Airtable" height="16">
+<img src="https://emojis.slackmojis.com/emojis/images/1653455112/59358/gcp.png" title="Google Cloud Platform" height="18">
+<img src="https://emojis.slackmojis.com/emojis/images/1643514069/257/github.png" title="Github" height="18">
+<img src="https://emojis.slackmojis.com/emojis/images/1643514845/8575/airtable.png" title="Airtable" height="18">
 <img src="https://emojis.slackmojis.com/emojis/images/1643514312/2833/netlify.png" title="Netlify" height="18">
 <img src="https://emojis.slackmojis.com/emojis/images/1643514156/1172/sentry.png" title="Sentry" height="18">
 <img src="https://emojis.slackmojis.com/emojis/images/1648478684/56781/notion.png" title="Notion" height="18">
