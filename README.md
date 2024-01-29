@@ -2,7 +2,7 @@ I'm a self-taught fullstack developer and skier based in 🇦🇩 Andorra.
 
 Interested in design :art:, TV shows :tv: and asian food :ramen:
 
-Currently working in [Andorra Recerca + Innovació](https://www.ari.ad) and building [Snowplanner](https://www.snowplanner.tech).
+Formerly building [Snowplanner](https://www.snowplanner.tech).
 
 **Tech stack**  
 <img src="https://emojis.slackmojis.com/emojis/images/1643514173/1383/typescript.png" title="Typescript" height="18">
