@@ -2,9 +2,8 @@ I'm a self-taught fullstack developer and skier based in 🇦🇩 Andorra.
 
 Interested in design :art:, TV shows :tv: and asian food :ramen:
 
-Formerly building [Snowplanner](https://www.snowplanner.tech).
-
 **Tech stack**  
+<img src="https://emojis.slackmojis.com/emojis/images/1643514044/32/python.png" title="Python" height="18">
 <img src="https://emojis.slackmojis.com/emojis/images/1643514173/1383/typescript.png" title="Typescript" height="18">
 <img src="https://emojis.slackmojis.com/emojis/images/1643514187/1537/vue.png" title="Vue.js" height="18">
 <img src="https://emojis.slackmojis.com/emojis/images/1643514110/703/sass.png" title="Sass (SCSS)" height="18">
