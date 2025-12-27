@@ -1,4 +1,6 @@
-I'm a self-taught fullstack developer and skier based in 🇦🇩 Andorra.  
+I'm a self-taught fullstack developer and skier based in 🇦🇩 Andorra.
+
+I mostly play with web tech, small tools, and experiments — sometimes useful, sometimes just fun.
 
 Interested in design :art:, TV shows :tv: and asian food :ramen:
 
